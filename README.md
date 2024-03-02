@@ -2,10 +2,35 @@
 ## Link 👉  updated soon
 
 ## Description:
+- 
 
 ## Features:
 
 ## Requirements:
+
+#### Hardware Requirements:
+
+##### CPU:
+- EduQuizPlay is designed to run on various hardware configurations.
+- It works well with standard CPUs found in modern computing devices, such as Intel Core i3 or equivalent processors.
+
+##### RAM:
+- For smooth performance and responsiveness, we recommend a minimum of 4 GB RAM.
+- Adequate RAM is essential for handling the processing demands of the quiz game, especially during graphics rendering and user interactions.
+
+These hardware requirements serve as a guideline to ensure optimal performance and a seamless user experience while using EduQuizPlay on your device.
+
+#### Software Requirements:
+
+##### Programming Language Used with Version:
+- EduQuizPlay is implemented using Python programming language with version 3.10.
+- Python offers a versatile and user-friendly development environment, making it ideal for educational applications.
+
+##### Operating Systems Supported:
+EduQuizPlay is compatible with the following operating systems:
+- Windows 10 or above.
+- macOS Big Sur (version 11.0) or above.
+- Linux distributions with GTK3 support.
 
 ## Usage:
 
