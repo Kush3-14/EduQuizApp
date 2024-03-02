@@ -51,6 +51,14 @@ Below is an overview of the functionalities available in this game:
 <img width="649" alt="image" src="https://github.com/AnubhavKumarGupta/EduQuizApp/assets/122034618/1d6d9e73-f65d-49ec-8875-bcd9a3a7eff3">
 
 
+## Technologies Used:
+- **MongoDB:** A popular NoSQL database known for its flexibility and scalability, making it suitable for storing various data structures. 
+- **Express.js:** A lightweight web framework for Node.js that simplifies building APIs and managing server-side interactions.
+- **React.js:** A powerful JavaScript library for creating dynamic and interactive user interfaces (UI) that are efficient and performant.
+- **Node.js:** A JavaScript runtime environment that allows developers to execute JavaScript code outside of a web browser, enabling the creation of real-time server-side applications.
+
+
+
 ## Requirements:
 
 #### Hardware Requirements:
