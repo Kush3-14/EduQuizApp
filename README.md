@@ -12,8 +12,9 @@
 ## Customization:
 
 
-## Acknowledgements
-We would like to express our gratitude to **Dr. Prof. Sanjay Chakraborty** for his guidance and support throughout the development of this project.
+## Acknowledgements:
+- We would like to express our sincere gratitude to **Prof. Sanjay Chakraborty** of the Department of Computer Science & Engineering, whose role as project guide and support throughout the development of this project was invaluable. We are extremely thankful for the keen interest he took in advising us, for the books and reference materials provided for the moral support extended to us.
+- Last but not the least we convey our gratitude to all the teachers for providing us the technical skill that will always remain as our asset and to all non-teaching staff for the cordial support they offered.
 
 
 ## Authors:
