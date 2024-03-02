@@ -88,7 +88,7 @@ EduQuizPlay is compatible with the following operating systems:
 
 ## Acknowledgements:
 - We would like to express our sincere gratitude to **Prof. Sanjay Chakraborty** of the Department of Computer Science & Engineering, whose role as project guide and support throughout the development of this project was invaluable. We are extremely thankful for the keen interest he took in advising us, for the books and reference materials provided for the moral support extended to us.
-- Last but not the least we convey our gratitude to all the teachers for providing us the technical skill that will always remain as our asset and to all non-teaching staff for the cordial support they offered.
+- Last but not least we convey our gratitude to all the teachers for providing us the technical skill that will always remain as our asset and to all non-teaching staff for the cordial support they offered.
 
 
 ## Authors:
@@ -111,10 +111,5 @@ For any inquiries or support, you can reach out to the project contributors:
 ## Conclusion
 - EduQuizPlay represents a promising educational tool with the potential to evolve into a widely embraced platform. As we continue to refine and expand its features, we are committed to contributing meaningfully to the educational technology landscape. 
 - Our goal is to foster interactive and personalized learning experiences for young minds, empowering them to achieve their full potential.
-
-
-## How to Contribute: 
-
-- We welcome contributions from the community to help improve EduQuizApp. If you have any suggestions, feature requests, or bug reports, please feel free to submit them through the GitHub repository's issue tracker.
 
 ### Thank you for visiting our repository!
