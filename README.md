@@ -1,10 +1,16 @@
 # EduQuizApp
+
+
+
 ## Link 👉  updated soon
+
 
 
 ## Overview:
 
 In the early grades, children often face various challenges in their learning journey. Traditional teaching methods sometimes struggle to keep their attention, leading to a potential lack of interest in learning. Moreover, each child has a unique learning style, requiring a more personalized approach to education. The Quiz Game project aims to address these challenges by providing an engaging and interactive learning experience.
+
+
 
 ## Objectives:
 
@@ -51,6 +57,7 @@ Below is an overview of the functionalities available in this game:
 <img width="649" alt="image" src="https://github.com/AnubhavKumarGupta/EduQuizApp/assets/122034618/1d6d9e73-f65d-49ec-8875-bcd9a3a7eff3">
 
 
+
 ## Technologies Used:
 - **MongoDB:** A popular NoSQL database known for its flexibility and scalability, making it suitable for storing various data structures. 
 - **Express.js:** A lightweight web framework for Node.js that simplifies building APIs and managing server-side interactions.
@@ -86,9 +93,11 @@ EduQuizPlay is compatible with the following operating systems:
 - Linux distributions with GTK3 support.
 
 
+
 ## Acknowledgements:
 - We would like to express our sincere gratitude to **Prof. Sanjay Chakraborty** of the Department of Computer Science & Engineering, whose role as project guide and support throughout the development of this project was invaluable. We are extremely thankful for the keen interest he took in advising us, for the books and reference materials provided for the moral support extended to us.
 - Last but not the least we convey our gratitude to all the teachers for providing us the technical skill that will always remain as our asset and to all non-teaching staff for the cordial support they offered.
+
 
 
 ## Authors:
@@ -97,6 +106,7 @@ Department of Computer Science & Engineering at Techno International New Town, B
 - Anubhav Kumar Gupta (18700120164)
 - Nikhil Kumar Singh (18700120135)
 - Kumar Ashutosh (18700120163)
+
 
 
 ## Contact:
@@ -108,13 +118,11 @@ For any inquiries or support, you can reach out to the project contributors:
 - Kumar Ashutosh: ashutoshjha.adj@gmail.com
 
 
+
 ## Conclusion
 - EduQuizPlay represents a promising educational tool with the potential to evolve into a widely embraced platform. As we continue to refine and expand its features, we are committed to contributing meaningfully to the educational technology landscape. 
 - Our goal is to foster interactive and personalized learning experiences for young minds, empowering them to achieve their full potential.
 
 
-## How to Contribute: 
-
-- We welcome contributions from the community to help improve EduQuizApp. If you have any suggestions, feature requests, or bug reports, please feel free to submit them through the GitHub repository's issue tracker.
 
 ### Thank you for visiting our repository!
