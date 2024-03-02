@@ -6,6 +6,27 @@
 
 ## Features:
 
+#### 1. Start Quiz:
+- To begin playing the quiz game, simply initiate the quiz by selecting the start option.
+- The system will respond by presenting quiz questions for you to answer.
+
+#### 2. Answer Question:
+- Once a quiz question is displayed, you can submit your answer.
+- The system will then validate your answer and provide you with the result, indicating whether your answer was correct or incorrect.
+
+#### 3. View Score:
+- At any point during the quiz, you can request to view your current score.
+- The system will retrieve and present your quiz score, showing you how many questions you've answered correctly so far.
+
+#### 4. Adaptive Learning:
+- Engage in adaptive learning by requesting to adjust the difficulty level.
+- Based on your performance in the quiz, the system will adapt the difficulty level of the questions presented to you, ensuring a challenging yet enjoyable experience.
+
+#### 5. Logout:
+- When you're finished playing or want to end your session, you can log out.
+- Logging out will terminate your current session and return you to the main menu.
+
+
 ## Requirements:
 
 #### Hardware Requirements:
