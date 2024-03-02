@@ -101,7 +101,8 @@ EduQuizPlay is compatible with the following operating systems:
 
 
 ## Authors:
-Department of Computer Science & Engineering at Techno International New Town, Batch 2020 - 2024.
+
+The authors of the project from the Department of Computer Science & Engineering at Techno International New Town, Batch 2020-2024 are:
 - Kumar Shivam (18700120148)
 - Anubhav Kumar Gupta (18700120164)
 - Nikhil Kumar Singh (18700120135)
