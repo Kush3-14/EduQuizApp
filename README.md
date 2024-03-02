@@ -4,8 +4,8 @@
 ## Description:
 - 
 
-## Features:
-
+## Functionalities:
+Below is an overview of the functionalities available in this game:
 #### 1. Start Quiz:
 - To begin playing the quiz game, simply initiate the quiz by selecting the start option.
 - The system will respond by presenting quiz questions for you to answer.
