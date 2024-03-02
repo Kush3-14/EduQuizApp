@@ -78,24 +78,13 @@ EduQuizPlay is compatible with the following operating systems:
 - Linux distributions with GTK3 support.
 
 
-## Learnings from the Project
-Working on EduQuizPlay has provided valuable insights and learnings:
-
-1. **Adaptive Design:** We have learned the importance of adaptive design in catering to individual learning needs. By creating a flexible and responsive interface, we aim to provide a tailored learning experience for each user.
-
-2. **User-Centric Approach:** We emphasize a user-centric approach to enhance engagement and satisfaction. By prioritizing user feedback and incorporating user preferences, we strive to create a platform that meets the needs and expectations of our audience.
-
-3. **Technological Integration:** Our work on EduQuizPlay has involved integrating various technologies, including Python and Pandas, to create effective educational solutions. Through experimentation and exploration, we have gained insights into leveraging technology to enhance learning outcomes.
-
-4. **Continuous Improvement:** We recognize the iterative nature of development and the importance of continuous improvement. By regularly evaluating and refining our features based on user feedback, we aim to enhance the overall quality and effectiveness of the platform.
-
-
 ## Acknowledgements:
 - We would like to express our sincere gratitude to **Prof. Sanjay Chakraborty** of the Department of Computer Science & Engineering, whose role as project guide and support throughout the development of this project was invaluable. We are extremely thankful for the keen interest he took in advising us, for the books and reference materials provided for the moral support extended to us.
 - Last but not the least we convey our gratitude to all the teachers for providing us the technical skill that will always remain as our asset and to all non-teaching staff for the cordial support they offered.
 
 
 ## Authors:
+Department of Computer Science & Engineering at Techno International New Town, Batch 2020 - 2024.
 - Kumar Shivam (18700120148)
 - Anubhav Kumar Gupta (18700120164)
 - Nikhil Kumar Singh (18700120135)
@@ -114,6 +103,7 @@ For any inquiries or support, you can reach out to the project contributors:
 ## Conclusion
 - EduQuizPlay represents a promising educational tool with the potential to evolve into a widely embraced platform. As we continue to refine and expand its features, we are committed to contributing meaningfully to the educational technology landscape. 
 - Our goal is to foster interactive and personalized learning experiences for young minds, empowering them to achieve their full potential.
+
 
 ## How to Contribute: 
 
