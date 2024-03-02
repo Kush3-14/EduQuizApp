@@ -35,3 +35,6 @@ For any inquiries or support, you can reach out to the project contributors:
 ## How to Contribute: 
 
 - We welcome contributions from the community to help improve EduQuizApp. If you have any suggestions, feature requests, or bug reports, please feel free to submit them through the GitHub repository's issue tracker.
+
+#
+Thank you for visiting our repository!
