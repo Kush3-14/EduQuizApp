@@ -1,13 +1,20 @@
 # EduQuizApp
+
+
+
 ## Link 👉  updated soon
+
 
 
 ## Overview:
 
 In the early grades, children often face various challenges in their learning journey. Traditional teaching methods sometimes struggle to keep their attention, leading to a potential lack of interest in learning. Moreover, each child has a unique learning style, requiring a more personalized approach to education. The Quiz Game project aims to address these challenges by providing an engaging and interactive learning experience.
 
+
+
 ## Objectives:
 
+The project's objectives are as follows.
 #### 1. Capturing Attention
 - To tackle the issue of maintaining children's interest in educational content.
 - Presenting information in a visually appealing and enjoyable game-like format.
@@ -27,7 +34,7 @@ In the early grades, children often face various challenges in their learning jo
 
 
 ## Functionalities:
-Below is an overview of the functionalities available in this game:
+Here's an overview of the game's features:
 
 #### 1. Start Quiz:
 - To begin playing the quiz game, simply initiate the quiz by selecting the start option.
@@ -48,7 +55,9 @@ Below is an overview of the functionalities available in this game:
 #### 5. Logout:
 - When you're finished playing or want to end your session, you can log out.
 - Logging out will terminate your current session and return you to the main menu.
+
 <img width="649" alt="image" src="https://github.com/AnubhavKumarGupta/EduQuizApp/assets/122034618/1d6d9e73-f65d-49ec-8875-bcd9a3a7eff3">
+
 
 
 ## Technologies Used:
@@ -86,17 +95,21 @@ EduQuizPlay is compatible with the following operating systems:
 - Linux distributions with GTK3 support.
 
 
+
 ## Acknowledgements:
 - We would like to express our sincere gratitude to **Prof. Sanjay Chakraborty** of the Department of Computer Science & Engineering, whose role as project guide and support throughout the development of this project was invaluable. We are extremely thankful for the keen interest he took in advising us, for the books and reference materials provided for the moral support extended to us.
 - Last but not least we convey our gratitude to all the teachers for providing us the technical skill that will always remain as our asset and to all non-teaching staff for the cordial support they offered.
 
 
+
 ## Authors:
-Department of Computer Science & Engineering at Techno International New Town, Batch 2020 - 2024.
+
+The authors of the project from the Department of Computer Science & Engineering at Techno International New Town, Batch 2020-2024 are:
 - Kumar Shivam (18700120148)
 - Anubhav Kumar Gupta (18700120164)
 - Nikhil Kumar Singh (18700120135)
 - Kumar Ashutosh (18700120163)
+
 
 
 ## Contact:
@@ -109,7 +122,9 @@ For any inquiries or support, you can reach out to the project contributors:
 
 
 ## Conclusion
-- EduQuizPlay represents a promising educational tool with the potential to evolve into a widely embraced platform. As we continue to refine and expand its features, we are committed to contributing meaningfully to the educational technology landscape. 
-- Our goal is to foster interactive and personalized learning experiences for young minds, empowering them to achieve their full potential.
+- EduQuizPlay is a promising educational tool that has the potential to grow into a widely used platform. We aim to make a significant impact on educational technology by refining and expanding our features.
+- Our goal is to provide interactive and personalized learning experiences for young brains, allowing them to reach their full potential.
+
+
 
 ### Thank you for visiting our repository!
