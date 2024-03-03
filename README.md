@@ -98,7 +98,7 @@ EduQuizPlay is compatible with the following operating systems:
 
 ## Acknowledgements:
 - We would like to express our sincere gratitude to **Prof. Sanjay Chakraborty** of the Department of Computer Science & Engineering, whose role as project guide and support throughout the development of this project was invaluable. We are extremely thankful for the keen interest he took in advising us, for the books and reference materials provided for the moral support extended to us.
-- Last but not the least we convey our gratitude to all the teachers for providing us the technical skill that will always remain as our asset and to all non-teaching staff for the cordial support they offered.
+- Last but not least we convey our gratitude to all the teachers for providing us the technical skill that will always remain as our asset and to all non-teaching staff for the cordial support they offered.
 
 
 
@@ -119,7 +119,6 @@ For any inquiries or support, you can reach out to the project contributors:
 - Anubhav Kumar Gupta: gupta.anubhav2103@gmail.com
 - Nikhil Kumar Singh: nikhilkumarsingh00099@gmail.com
 - Kumar Ashutosh: ashutoshjha.adj@gmail.com
-
 
 
 ## Conclusion
