@@ -1,0 +1,70 @@
+.container ol li {
+    font-size: 1.4em;
+    color: #ff66b2; /* Pink color */
+    margin-bottom: 0.5em; /* Add some space between list items */
+    font-family: 'Comic Sans MS', cursive; /* Playful font */
+  }
+
+  .title {
+    font-family: 'Comic Sans MS', cursive; /* Playful font */
+    font-size: 3em;
+    color: #4bc5e7; /* Pink color */
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Add a subtle text shadow */
+    margin-bottom: 1em;
+  }
+  
+  
+  .fade-in-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.5s, transform 0.5s;
+  }
+  
+  .fade-in.active {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  .start {
+    display: flex;
+    justify-content: center;
+    padding-top: 2em;
+  }
+  
+  .start .btn {
+    padding: 0.5em 2em;
+    border: none;
+    border-radius: 0.5em;
+    font-size: 1.2em;
+    color: #fff; /* White text */
+    text-decoration: none;
+    background-color: #4caf50; /* Green color */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    transition: background-color 0.3s; /* Smooth background color transition */
+  }
+  
+  .start .btn:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
+  
+  #form {
+    display: flex;
+    justify-content: center;
+    margin-top: 4em;
+  }
+  
+  #form .userid {
+    padding: 0.7em 2em;
+    width: 50%;
+    border: none;
+    border-radius: 3px;
+    font-size: 1em;
+    font-family: 'Comic Sans MS', cursive; /* Playful font */
+  }
+  
