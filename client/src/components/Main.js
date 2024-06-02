@@ -29,7 +29,7 @@ export default function Main() {
       <h1 className='title text-light'>Edu Quiz Game</h1>
 
       <ul className='fade-in-list'>
-        <li className='fade-in'>🚀 Get ready for a space adventure with 20 awesome questions!</li>
+        <li className='fade-in'>🚀 Get ready for a space adventure with 10 awesome questions!</li>
         <li className='fade-in'>🌟 Earn 10 points for each correct answer.</li>
         <li className='fade-in'>🤔 Choose the best option from four cool choices.</li>
         <li className='fade-in'>🔄 Review and change your answers anytime during the quiz.</li>
