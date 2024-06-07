@@ -52,9 +52,6 @@ Here's an overview of the game's features:
 - Engage in adaptive learning by requesting to adjust the difficulty level.
 - Based on your performance in the quiz, the system will adapt the difficulty level of the questions presented to you, ensuring a challenging yet enjoyable experience.
 
-#### 5. Logout:
-- When you're finished playing or want to end your session, you can log out.
-- Logging out will terminate your current session and return you to the main menu.
 
 <img width="649" alt="image" src="https://github.com/AnubhavKumarGupta/EduQuizApp/assets/122034618/1d6d9e73-f65d-49ec-8875-bcd9a3a7eff3">
 
@@ -65,35 +62,6 @@ Here's an overview of the game's features:
 - **Express.js:** A lightweight web framework for Node.js that simplifies building APIs and managing server-side interactions.
 - **React.js:** A powerful JavaScript library for creating dynamic and interactive user interfaces (UI) that are efficient and performant.
 - **Node.js:** A JavaScript runtime environment that allows developers to execute JavaScript code outside of a web browser, enabling the creation of real-time server-side applications.
-
-
-
-## Requirements:
-
-#### Hardware Requirements:
-
-##### CPU:
-- EduQuizPlay is designed to run on various hardware configurations.
-- It works well with standard CPUs found in modern computing devices, such as Intel Core i3 or equivalent processors.
-
-##### RAM:
-- For smooth performance and responsiveness, we recommend a minimum of 4 GB RAM.
-- Adequate RAM is essential for handling the processing demands of the quiz game, especially during graphics rendering and user interactions.
-
-These hardware requirements serve as a guideline to ensure optimal performance and a seamless user experience while using EduQuizPlay on your device.
-
-#### Software Requirements:
-
-##### Programming Language Used with Version:
-- EduQuizPlay is implemented using Python programming language with version 3.10.
-- Python offers a versatile and user-friendly development environment, making it ideal for educational applications.
-
-##### Operating Systems Supported:
-EduQuizPlay is compatible with the following operating systems:
-- Windows 10 or above.
-- macOS Big Sur (version 11.0) or above.
-- Linux distributions with GTK3 support.
-
 
 
 ## Acknowledgements:
